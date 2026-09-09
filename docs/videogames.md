@@ -28,10 +28,13 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 - Super Mario Bros
 
+
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
+A puzzle game is a genre centered on solving logic, pattern-matching or spatial challenges, often emphasizing problem-solving over reflexes or combat.
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_video_game)
 
+- [Tetris](./puzzle/tetris.md)
 - Tetris
 
 ## Sandbox
